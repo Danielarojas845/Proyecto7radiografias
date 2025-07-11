@@ -57,5 +57,7 @@ Sube una imagen de rayos X y espera el diagnóstico.
 {"probabilidad": 0.9382,
 "diagnóstico": "NEUMONIA"}
 
+El archivo es muy pesado, comparto el google colab por aqui: https://drive.google.com/file/d/1GdxDx0grtyHpr8FGs1thEUPBowsot_6M/view?usp=sharing
+Se inento subir por ambas vías, más no se logró. 
 
 
