@@ -58,6 +58,7 @@ Sube una imagen de rayos X y espera el diagnóstico.
 "diagnóstico": "NEUMONIA"}
 
 El archivo es muy pesado, comparto el google colab por aqui: https://drive.google.com/file/d/1GdxDx0grtyHpr8FGs1thEUPBowsot_6M/view?usp=sharing
-Se inento subir por ambas vías, más no se logró. 
+Se inento subir por ambas vías, más no se logró.
+Se envía el link por Google colab: https://colab.research.google.com/drive/1GdxDx0grtyHpr8FGs1thEUPBowsot_6M  
 
 
